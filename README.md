@@ -1,4 +1,4 @@
-# Minimizing_Hotel_Cancellations_for_Maximum_Revenue
+# Minimizing_Hotel_Cancellations
 
 # Business Problem
 
